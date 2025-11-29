@@ -1,1 +1,0 @@
-# TurboCloud-K8sCollector
